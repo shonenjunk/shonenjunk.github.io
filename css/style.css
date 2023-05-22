@@ -76,6 +76,10 @@ transition: 0.5s;
     color: #fff;
 }
 
+.font-big {
+    font-size:  12rem;
+}
+
 .header img{
     max-width: 200px;
     position: relative;
