@@ -68,11 +68,11 @@ transition: 0.5s;
     text-align: center;
 }
 .text-box h1{
-    font-size: 36px;
+    font-size: 3rem;
 }
 .text-box p{
     margin: 10px 0 40px;
-    font-size: 14px;
+    font-size: 1.5rem;
     color: #fff;
 }
 
@@ -138,7 +138,7 @@ transition: 0.5s;
 
 .hero-btn:hover{
     border: 1px solid #39b54a;
-    background: #39b54a;
+    background: #ffffff;
     transition: 1s;
 }
 
@@ -216,7 +216,7 @@ nav .fa{
 
 .find-btn:hover{
     border: 1px solid #39b54a;
-    background: #39b54a;
+    background: #FFF;
     transition: 1s;
 }
 
